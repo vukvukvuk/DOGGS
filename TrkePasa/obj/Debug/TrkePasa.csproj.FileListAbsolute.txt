@@ -1,0 +1,9 @@
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\bin\Debug\TrkePasa.exe.config
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\bin\Debug\TrkePasa.exe
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\bin\Debug\TrkePasa.pdb
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\obj\Debug\TrkePasa.csprojAssemblyReference.cache
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\obj\Debug\TrkePasa.Form1.resources
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\obj\Debug\TrkePasa.Properties.Resources.resources
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\obj\Debug\TrkePasa.csproj.GenerateResource.cache
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\obj\Debug\TrkePasa.exe
+C:\Users\Vuk\Desktop\TRKE PASA PROJEKAT\TrkePasa\obj\Debug\TrkePasa.pdb
